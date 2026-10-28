@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0725-split-linked-list-in-parts](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Array
 |  |
 | ------- |
