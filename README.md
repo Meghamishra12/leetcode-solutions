@@ -73,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
+| [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
