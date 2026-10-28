@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
