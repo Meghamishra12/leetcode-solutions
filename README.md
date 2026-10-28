@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0050-powx-n) |
+| [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 ## Array
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
