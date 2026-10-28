@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Meghamishra12/leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -123,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
