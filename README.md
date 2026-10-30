@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Combinatorics
@@ -160,5 +162,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
