@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Combinatorics
 |  |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
