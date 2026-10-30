@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0725-split-linked-list-in-parts) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Combinatorics
 |  |
 | ------- |
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
