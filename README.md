@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Meghamishra12/leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Recursion
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
