@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0445-add-two-numbers-ii](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Meghamishra12/leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Monotonic Stack
 |  |
@@ -208,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
