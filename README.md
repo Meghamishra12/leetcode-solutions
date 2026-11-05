@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0112-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
@@ -250,10 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0112-path-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0112-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
