@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0078-subsets](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0861-score-after-flipping-matrix](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
