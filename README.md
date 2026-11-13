@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Meghamishra12/leetcode-solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Divide and Conquer
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0861-score-after-flipping-matrix](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/Meghamishra12/leetcode-solutions/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Meghamishra12/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/Meghamishra12/leetcode-solutions/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
